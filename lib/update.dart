@@ -1,5 +1,5 @@
 class Update{
-  void important (String imp){
-    print(imp);
+  void update(){
+    print("Updated");
   }
 }
